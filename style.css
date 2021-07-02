@@ -1,0 +1,235 @@
+body {
+  scroll-behavior: smooth;
+  font-family: 'Helvetica Neue', sans-serif;
+}
+header {
+  background-color: #eda0c4;
+}
+#site-logo img {
+  margin-top: 40px;
+  height: 50px;
+  width: 200px;
+}
+#home {
+  color: #fff;
+  font-weight: 900;
+}
+#promo-title {
+  margin-top: 180px;
+}
+#home button {
+  margin-top: 20px;
+  width: 100%;
+  height: 60px;
+  border-radius: none;
+  text-transform: uppercase;
+  background-color: #87ceeb;
+  color: #fff;
+  font-size: 0.9rem;
+}
+#home button:hover {
+  background-color: #00008b;
+}
+
+#home img {
+  width: 100%;
+}
+#partners {
+  margin-top: 80px;
+  font-weight: 800;
+  color: #172961;
+}
+#partners img {
+  height: 100px;
+  width: 200px;
+  border: 1px solid #000;
+  margin-right: 2px;
+}
+/*----- Overview part--------------*/
+#overview {
+  margin-top: 100px;
+}
+#overview hr,
+#media hr,
+#sponsors hr,
+#speakers hr {
+  margin-top: 10px;
+  width: 100px;
+  align-items: center;
+}
+#overview h1 {
+  font-weight: 900;
+  color: #172961;
+}
+#overview b {
+  color: #b7832f;
+}
+
+#p-1 {
+  font-size: 1.3rem;
+  font-weight: 500;
+}
+#p-2,
+#p-3 {
+  font-size: 1rem;
+  font-weight: 400;
+  color: #7c7979;
+}
+.session {
+  background-color: #add8e6;
+  margin: 4px;
+  text-align: center;
+  padding: 5px;
+}
+.session h5 {
+  color: #fff;
+  font-weight: 700;
+}
+.session p {
+  font-size: 0.75rem;
+  font-weight: 500;
+}
+/*----- Summit highlights--------------*/
+#highlights {
+  margin-top: 50px;
+  background-color: #194ab3;
+  color: #ffffff;
+  padding: 120px 0 60px 0;
+}
+#highlights h2 {
+  padding-bottom: 100px;
+  font-weight: 900;
+}
+#highlights h1 {
+  font-weight: 900;
+}
+#highlights h3 {
+  font-weight: 800;
+}
+#highlights p {
+  font-size: 0.9rem;
+}
+/*----- Discussion points part--------------*/
+.box {
+  height: 280px;
+  width: 250px;
+  color: #ffffff;
+  background-color: #153084;
+  padding: 150px 15px 20px 15px;
+}
+.hr-line {
+  margin-top: 30px;
+  padding: 0;
+}
+#d-points h2 {
+  margin-top: 50px;
+  padding: 10px 0 60px 0;
+  font-weight: 900;
+  color: #194ab3;
+}
+/*----- Segments part--------------*/
+#segments {
+  background-color: #0a4c66;
+  color: #fff;
+  margin-top: 80px;
+  padding: 150px 0 50px 0;
+}
+#segments h2 {
+  font-weight: 900;
+  padding-bottom: 50px;
+}
+.border {
+  width: 6rem;
+  height: 2px;
+  margin: auto;
+}
+
+/*----- Speakers part--------------*/
+#speakers {
+  margin-top: 100px;
+}
+
+.speakers-image img {
+  height: 200px;
+  width: 250px;
+}
+
+#sponsors {
+  margin-top: 100px;
+}
+#speakers p {
+  font-size: 0.7rem;
+  font-weight: 300;
+  text-align: center;
+  margin-top: 0;
+}
+#speakers h4 {
+  text-align: center;
+}
+#speakers h2,
+#sponsors h2,
+#media h2 {
+  font-weight: 900;
+  color: #194ab3;
+}
+#sponsors h2 span,
+#speakers h2 span,
+#media h2 span,
+#speakers h4 {
+  color: #b7832f;
+  font-weight: 700;
+}
+
+.sponsor-iogo img {
+  margin-top: 10px;
+  height: 150px;
+  width: 250px;
+}
+.sponsor-iogo {
+  margin-bottom: 30px;
+  border: 1px solid #000;
+}
+/*----- Media partners part--------------*/
+#media {
+  margin: 50px 0 100px 0;
+}
+#media h2 {
+  font-weight: 900;
+}
+#media img {
+  height: 150px;
+  width: 300px;
+  border: 1px solid #000;
+  margin-top: 20px;
+}
+
+/*----- Footer--------------*/
+footer {
+  background-color: #3c005a;
+  color: #fff;
+}
+#footer {
+  padding: 100px 0 10px 0;
+}
+footer h3 {
+  font-weight: 900;
+  margin-bottom: 30px;
+}
+footer input {
+  margin: 50px 0;
+  height: 50px;
+  background-color: #550080;
+  color: #ffffff;
+  border: none;
+}
+.d-flex {
+  justify-content: space-between;
+}
+footer img {
+  height: 50px;
+  width: 200px;
+  margin-bottom: 15px;
+}
+footer span {
+  color: #b7832f;
+}
