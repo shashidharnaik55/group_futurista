@@ -233,3 +233,12 @@ footer img {
 footer span {
   color: #b7832f;
 }
+@media screen and (max-width: 600px) {
+  .d-flex {
+    flex-direction: column;
+  }
+  .box {
+    width: 100%;
+    margin: 2px;
+  }
+}
